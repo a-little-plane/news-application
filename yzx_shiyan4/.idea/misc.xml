@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/yzx_shiyan4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1925" />
+        <entry key="..\:/Android/yzx_shiyan4/app/src/main/res/layout/activity_news_detail.xml" value="0.1" />
+        <entry key="..\:/Android/yzx_shiyan4/app/src/main/res/layout/activity_news_list.xml" value="0.14817629179331307" />
+        <entry key="..\:/Android/yzx_shiyan4/app/src/main/res/layout/news_activity_main.xml" value="0.12407407407407407" />
+        <entry key="..\:/Android/yzx_shiyan4/app/src/main/res/layout/news_list_item.xml" value="0.14817629179331307" />
+        <entry key="..\:/Android/yzx_shiyan4/app/src/main/res/layout/row_view.xml" value="0.12407407407407407" />
+        <entry key="..\:/Android/yzx_shiyan4/app/src/main/res/layout/yzx_main.xml" value="0.12407407407407407" />
+        <entry key="..\:/Android/yzx_shiyan4/app/src/main/res/menu/main_menu.xml" value="0.32864583333333336" />
+        <entry key="..\:/Android/yzx_shiyan4/app/src/main/res/menu/opt_menu.xml" value="0.15555555555555556" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
